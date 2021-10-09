@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This is a responsive react js website you guys can make during learning reactJS and learn how a website is made responsive.
+
 ## Available Scripts
 
 In the project directory, you can run:
